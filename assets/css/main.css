@@ -1980,8 +1980,12 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background-image: none;
-			background-color: #fff;
+			/* background-image: url(images/working1.jpg);
+			background-color: #fff; */
+			background: linear-gradient( rgb(252, 249, 249), rgba(241, 236, 236, 0.5) ), url(images/working1.png);
+			background-repeat: no-repeat;
+			background-size: cover;
+			z-index:-1;
 		}
 
 		.wrapper.style2 {
