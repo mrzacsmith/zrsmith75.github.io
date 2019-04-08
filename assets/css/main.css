@@ -2026,7 +2026,9 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		/* background-color: #282828; */
+		/* background-color: #8860d0; */
+		background-color: #0e0b16;
 		text-align: center;
 		position: fixed;
 		left: 0;
